@@ -1,0 +1,24 @@
+# Build outputs
+.cache
+.qtcreator
+.vs
+.vscode
+build
+build_vs
+build-arm64
+
+# FluentUI submodule's own .git (we include source files directly)
+src_ui/FluentUI/.git
+
+# OS / IDE
+Thumbs.db
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.aps
+
+# Generated
+*.obj
+*.pdb
+*.ilk

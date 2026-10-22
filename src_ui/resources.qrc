@@ -1,0 +1,15 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource prefix="/">
+    <file>Main.qml</file>
+    <file>pages/HomePage.qml</file>
+    <file>pages/HandleSettingsPage.qml</file>
+    <file>pages/GestureSettingsPage.qml</file>
+    <file>pages/AdvancedPage.qml</file>
+    <file>pages/ActionsPage.qml</file>
+    <file>icon.ico</file>
+    <file>icon.png</file>
+    <file>i18n/zh_CN.ts</file>
+    <file>i18n/en_US.ts</file>
+  </qresource>
+</RCC>
